@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập lớn</title>
+</head>
+<body>
+    <h1>Xin chào!</h1>
+    <h2>Đây là trang web đầu tiên của tôi</h2>
+    <p>Tôi đang học lập trình HTML.</p>
+    <button>Bấm vào đây</button>
+</body>
+</html>
